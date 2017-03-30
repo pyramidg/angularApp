@@ -1,6 +1,6 @@
 var plan = require('flightplan');
 
-var appName = 'cport';
+var appName = 'direct';
 var username = 'deploy';
 var startFile = 'bin/www';
 
